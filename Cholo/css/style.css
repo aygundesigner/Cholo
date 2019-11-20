@@ -1,0 +1,134 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#Section {
+  padding: 120px 0;
+}
+
+#Section .photo hr {
+  width: 1px;
+  height: 800px;
+  background-color: rgba(0, 0, 0, 0.226);
+  margin: 0 0 0 75px;
+}
+
+#Section .txt {
+  top: 30px;
+}
+
+#Section .txt h2 {
+  font-size: 200px;
+  font-family: 'Paytone One', sans-serif;
+  font-weight: 900;
+  color: #252941;
+  letter-spacing: -3px;
+  line-height: 173px;
+}
+
+#Section .txt h2 span {
+  color: #afcadf;
+}
+
+#Section .txt p {
+  font-size: 17px;
+  color: #2529419c;
+  font-family: 'Roboto', sans-serif;
+  margin: 20px 0 0 9px;
+}
+
+#Section .pht {
+  top: 112px;
+  left: 100px;
+}
+
+#Section .pht img {
+  width: 100%;
+}
+
+#Section .photo1 {
+  bottom: 78px;
+}
+
+#Section .photo1 img {
+  width: 60%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+#Section .text1 h1 {
+  font-size: 60px;
+  font-family: 'Paytone One', sans-serif;
+  color: #34404b;
+}
+
+#Section .text1 h2 {
+  font-size: 15px;
+  color: #2529419c;
+  font-family: 'Roboto', sans-serif;
+  margin: 20px 0;
+  letter-spacing: 2px;
+}
+
+#Section .text1 h3 {
+  font-size: 40px;
+  font-family: 'Paytone One', sans-serif;
+  color: #556a7f;
+}
+
+#Section .text1 p {
+  font-size: 17px;
+  font-family: 'Paytone One', sans-serif;
+  color: #556a7f;
+}
+
+#Section .text1 span {
+  font-size: 12px;
+  font-family: 'Roboto', sans-serif;
+  color: #556a7f;
+}
+
+#Section .text1 button {
+  border: none;
+  background-color: #039be5;
+  color: white;
+  padding: 5px 15px;
+  margin: 0 0 0 30px;
+}
+
+#Section .text1 .foto1 {
+  margin: 20px 20px;
+}
+
+#Section .text1 .foto1 img {
+  width: 80%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+#Section .tetx {
+  top: 125px;
+}
+
+#Section .tetx p {
+  font-size: 11px;
+  color: #464646;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 800;
+  margin: 20px 0;
+}
+
+#Section .tetx span {
+  font-size: 13px;
+  color: #2529419c;
+  font-family: 'Roboto', sans-serif;
+  margin: 20px 0;
+  letter-spacing: 2px;
+}
+
+#Section .tetx hr {
+  width: 97%;
+  background-color: #fd7e14;
+}
+/*# sourceMappingURL=style.css.map */

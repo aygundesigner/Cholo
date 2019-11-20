@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#Section{
+    padding: 120px 0;
+   .photo{
+       hr{
+           width: 1px;
+           height: 800px;
+           background-color: rgba(0, 0, 0, 0.226);
+           margin: 0 0 0 75px;
+       }
+      
+   }
+   .txt{
+       top: 30px;
+    h2{
+        font-size: 200px;
+        font-family: 'Paytone One', sans-serif;
+        font-weight: 900;
+        color: #252941;
+        letter-spacing: -3px;
+        line-height: 173px;
+        span{
+            color: #afcadf;
+        }
+
+    }
+    p{
+        font-size: 17px;
+        color: #2529419c;
+        font-family: 'Roboto', sans-serif;
+        margin: 20px 0 0 9px;
+    }
+   }
+   .pht{
+    top: 112px;
+    left: 100px;
+
+    img{
+         width: 100%;
+     }
+   }
+   .photo1{
+    bottom: 78px;
+       img{
+           width:60%;
+           object-fit: cover;
+       }
+   }
+   .text1{
+    h1{
+        font-size: 60px;
+        font-family: 'Paytone One', sans-serif;
+        color: #34404b;
+   }
+    h2{
+    font-size: 15px;
+    color: #2529419c;
+    font-family: 'Roboto', sans-serif;
+    margin: 20px 0;
+    letter-spacing: 2px;
+}
+h3{
+    font-size: 40px;
+    font-family: 'Paytone One', sans-serif;
+    color: #556a7f;
+}
+p{
+    font-size: 17px;
+    font-family: 'Paytone One', sans-serif;
+    color: #556a7f;
+}
+span{
+    font-size: 12px;
+    font-family: 'Roboto', sans-serif;
+    color: #556a7f;
+}
+button{
+    border:none;
+    background-color: #039be5;
+    color: white;
+    padding: 5px 15px;
+    margin: 0 0 0 30px;
+}
+.foto1{
+    margin: 20px 20px;
+    img{
+        width: 80%;
+        object-fit: cover;
+    }
+}
+
+}
+.tetx{
+    top:125px;
+
+    p{
+        font-size: 11px;
+        color: #464646;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 800;
+        margin: 20px 0;
+    }
+    span{
+        font-size: 13px;
+        color: #2529419c;
+        font-family: 'Roboto', sans-serif;
+        margin: 20px 0;
+        letter-spacing: 2px;
+    }
+    hr{
+        width: 97%;
+        background-color: #fd7e14;
+    }
+}
+}
